@@ -1,0 +1,23 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Build
+/build
+/dist
+
+# Editor and System Files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Cache
+.parcel-cache/
+.cache/
+.eslintcache
+.next/
+out/
+coverage/
